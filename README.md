@@ -1,3 +1,7 @@
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kostrubin&include_all_commits=true&show_icons=true&hide=stars,issues,contribs&show=prs_merged,prs_merged_percentage&hide_rank=true&theme=transparent)](https://github.com/kostrubin/github-readme-stats&include_all_commits=true&show_icons=true&hide=stars,issues,contribs&show=prs_merged,prs_merged_percentage&hide_rank=true&theme=transparent)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kostrubin&hide_progress=true&hide=html,css,vue,shell&exclude_repo=useless_box,functional,tdd,shop_solid,multithreading_1.2,multithreading_1.1,iterator_pattern,calculator_adapter,builder_pattern,socket,geo-service&theme=transparent)
+
 ### 🚀 Experienced Frontend Developer | Team Lead | People Manager
 
 I am a frontend developer with 7+ years of experience delivering high-performance, scalable applications across industries, including AI, telecom, e-commerce, and travel. My career spans development, leadership, and business-driven impact.
