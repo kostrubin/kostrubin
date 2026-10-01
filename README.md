@@ -1,40 +1,19 @@
-### 🚀 Experienced Frontend Developer | Team Lead | People Manager
+# Hi, I'm Igor 👋
 
-I am a frontend developer with 9+ years of experience delivering high-performance, scalable applications across industries, including AI, telecom, e-commerce, and travel. My career spans development, leadership, and business-driven impact.
+I'm a Software Engineer focused on **Web & AI Products**, with 10 years of experience building and evolving production applications.
 
-### 🎯 What drives me?
-I bring value to businesses by:
-* Building cutting-edge applications tailored to user needs
-* Optimizing processes to enhance efficiency and outcomes
-* Fostering team growth through mentorship and collaboration
-* Ensuring high-quality code and scalable solutions
+My background is strongest in **web and frontend engineering**: architecture, TypeScript/JavaScript, performance, SSR, API integration, legacy modernization, and end-to-end product delivery.
 
-### 💡 Highlights of my career:
-* Delivered €5M+ worth of projects on time for international clients in Europe and the MENA region
-* Led teams of 3–20 developers, mentoring and improving retention
-* Created an AI-driven agent for government and enterprise clients
+I also work with **AI-powered applications and agentic engineering workflows**, including coding agents, LLM tooling, MCP integrations, context engineering, and AI-assisted code review.
 
-### 📚 More than just code:
-I enjoy sharing knowledge and shaping the next generation of developers:
-* 3+ years as a mentor in leading edtech platforms and universities
-* Over 1,100 code reviews and exam assessments completed
-* Led a hackathon-winning team among 36 competitors
+### Core areas
 
-### 💻 Technologies:
-* Frontend: JavaScript, TypeScript, React (Next.js), Vue.js (Nuxt.js), Tailwind CSS
-* Backend: Node.js, Python, Java, SQL, Bash,
-* Tools: REST API, GraphQL, Docker, Azure, Git
-* Testing Frameworks: Jest, Cypress, Jasmine
-* Platforms: Commercetools, Contentful
-
-### 🎓 Certifications:
-* Microsoft Certified (Programming in HTML5 with JavaScript and CSS3)
-
-### 🌐 Languages:
-* 🇷🇺 Russian (Native)
-* 🇬🇧 English (Fluent)
-* 🇪🇸 Spanish (Intermediate)
-* 🇩🇪 German (Intermediate)
-
-### 🤝 Let’s connect!
-Feel free to contact me on [Telegram](https://t.me/kostrubinio) or [LinkedIn](https://www.linkedin.com/in/kostrubinio) 
+- Web & Frontend Architecture
+- TypeScript / JavaScript
+- React / Next.js
+- Vue.js / Nuxt.js
+- Performance & SSR
+- REST / GraphQL
+- AI-powered applications
+- Agentic development workflows
+- Technical leadership & mentoring
